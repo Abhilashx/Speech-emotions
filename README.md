@@ -2,13 +2,7 @@
 
 MINI PROJECT 
 
-MADE BY-
-
-Abhijeet
-
-Aditya Agrawal
-
-Abhilash Sharma
+Abhilash Sharma paras
 
 B.Tech CSE 3rd year
 
